@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ "main" ]
   release:
-    type: ["released"]
+    type: [released]
 permissions:
   contents: read
 
