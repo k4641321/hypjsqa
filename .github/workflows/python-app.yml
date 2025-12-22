@@ -33,7 +33,7 @@ jobs:
     - name: reeeeeee
       uses: actions/upload-artifact@v4
       with: 
-        path: D:\a\hypjsqa\hypjsqa\dist
-       # path: .\dist
+        #path: D:\a\hypjsqa\hypjsqa\dist
+        path: .\dist
         
     
